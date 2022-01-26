@@ -81,7 +81,8 @@
     font-size: 16px;
 
 }
-.bottom1:hover{
+
+.bottom1:hover {
     transform: translate(10px);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5)
 }
@@ -129,12 +130,13 @@
 
 }
 
-.btn_1:hover{
+.btn_1:hover {
 
     transform: translate(10px);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5)
 }
-.btn_2:hover{
+
+.btn_2:hover {
 
     transform: translate(10px);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5)
@@ -259,6 +261,115 @@
 .container_5 {
     width: 1440px;
     height: 600px;
+    margin-top: 176px;
+}
 
+.content_Con5 {
+    width: 1260px;
+
+    background-color: #BD78F0;
+    margin-left: 180px;
+    display: flex;
+    margin-bottom: 238px;
 
 }
+
+.con5_lSide {
+    position: relative;
+    right: 115px;
+    top: 68px;
+}
+
+.text_8 {
+    width: 485px;
+    height: 192px;
+    font-size: 42px;
+    line-height: 48px;
+    letter-spacing: 0.42px;
+    color: var(--black-color);
+    margin: 103px 193px 39px 57px;
+}
+
+.text_9 {
+    width: 550px;
+    height: 56px;
+    font-size: 17px;
+    line-height: 28px;
+    color: var(--black-color);
+    margin-left: 57px;
+}
+
+.text_10 {
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: #6A7981;
+    width: 94px;
+    height: 24px;
+    margin: 136px 0 0 148px;
+}
+
+.text_11 {
+    font-size: 42px;
+    line-height: 48px;
+    letter-spacing: 0.42px;
+    color: var(--black-color);
+    width: 593px;
+    height: 144px;
+    margin: 13px 0 26px 148px;
+}
+
+.text_12 {
+    font-size: 22px;
+    line-height: 32px;
+    color: #375361;
+    width: 500px;
+    height: 32px;
+    margin-left: 148px;
+}
+
+.container_6 {
+    width: 1440px;
+    margin-bottom: 226px;
+
+}
+
+.container_7 {
+    width: 1440px;
+    display: flex;
+}
+.con7_content{
+    margin-left: 148px;
+}
+
+.con7_content img {
+    margin-bottom: 23px;
+
+}
+
+.con7_content h5 {
+    font-size: 34px;
+    line-height: 40px;
+    letter-spacing: 0.34px;
+    color: var(--black-color);
+    margin-bottom: 29px;
+
+}
+.con7_content p{
+    font-size: 17px;
+    line-height: 28px;
+    color: #375361;
+    width: 484px;
+    height: 84px;
+    margin-bottom: 64px;
+}
+.posImg{
+    margin-left: 293px;
+}
+
+.mgtop{
+    margin-top: 140px;
+}
+
+
